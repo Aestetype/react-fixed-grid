@@ -52,7 +52,7 @@
   "dependencies": {
     "classnames": "^2.2.5",
     "prop-types": "^15.5.10",
-    "react-draggable": "^2.2.6",
+    "react-draggable": "^4.0.0",
     "react-jss": "^6.1.1"
   }
 }
