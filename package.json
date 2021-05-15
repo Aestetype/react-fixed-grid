@@ -23,8 +23,8 @@
   },
   "homepage": "https://github.com/aestetype/react-fixed-grid#readme",
   "peerDependencies": {
-    "react": "^15.0.0 || ^16.0.0",
-    "react-dom": "^15.0.0 || ^16.0.0"
+    "react": "^15.0.0 || ^16.0.0 || ^17.0.0",
+    "react-dom": "^15.0.0 || ^16.0.0 || ^17.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
@@ -41,9 +41,9 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^4.0.0",
     "eslint-plugin-react": "^6.10.3",
-    "react": "^15.4.1",
+    "react": "17.0.2",
     "react-docgen": "^2.12.1",
-    "react-dom": "^15.4.1",
+    "react-dom": "17.0.2",
     "react-event-listener": "^0.4.5",
     "react-styleguidist": "^4.4.1",
     "webpack": "^2.6.1",
