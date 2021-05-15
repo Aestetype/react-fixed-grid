@@ -42,7 +42,7 @@
     "eslint-plugin-jsx-a11y": "^4.0.0",
     "eslint-plugin-react": "^6.10.3",
     "react": "^15.4.1",
-    "react-docgen": "^2.12.1",
+    "react-docgen": "2.21.0",
     "react-dom": "^15.4.1",
     "react-event-listener": "^0.4.5",
     "react-styleguidist": "^4.4.1",
