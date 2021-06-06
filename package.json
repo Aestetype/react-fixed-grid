@@ -45,7 +45,7 @@
     "react-docgen": "^2.12.1",
     "react-dom": "^15.4.1",
     "react-event-listener": "^0.4.5",
-    "react-styleguidist": "^4.4.1",
+    "react-styleguidist": "11.1.7",
     "webpack": "^2.6.1",
     "webpack-dev-server": "^2.4.5"
   },
